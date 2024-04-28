@@ -1,0 +1,19 @@
+Cricket is a game played with bat and ball having 11 players on each side of the two teams.
+
+ The person who hits the ball is called “Batsman”, another person who bowls is called “Bowler”.
+
+ The aim of the two teams is to restrict the opponent to fewer runs while bowling and make maximum runs while batting.
+
+ Before the start of the game a coin is tossed, with heads as winners and tails as losers of the toss, the winner of the toss decides either to bowl or bat first.
+
+ To give a batsman out there are two judges who stand on the field, they are called “Umpires”.
+
+ There is a third umpire who sits outside the field to assist the field umpires while giving “Run- Out”, “Leg Before Wicket” etc.
+
+Match referee is also a part of this game who observes the moral conduct of the players in a match, and also punishes them for violation of rules.
+
+ The apex body which governs cricket in the whole world is the ICC (International Cricket Council).
+
+ Cricket matches are played in a ground having a rectangular clearing in the middle known as a pitch; its length is 20.12m or 22 yards in length and 10ft (3.05 meters) in width.
+
+Three wickets on each end are placed on the pitch, and the batsman while batting has the responsibility to protect the wickets from falling.
